@@ -49,7 +49,7 @@ The potentiometer allows you to adjust the display contrast and is connected to 
 
 ### Next steps
 
-I proposed a construction model which allows to automate the pH measurement.The main element of the station is an electric linear drive,
+I proposed a construction model which allows to automate the pH measurement. The main element of the station is an electric linear drive,
 which is responsible for the translational movement of the pH sensor and allows the electrolyte to be immersed in the sample. 
 In order to hold the working part in an intermediate position, an inductive position sensor has been added, which detects the presence of the working part 
 when it is at its mounting height. The elements to which the linear drive is attached are modular aluminum profiles, which also form the frame of the stand. 
