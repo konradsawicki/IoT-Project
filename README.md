@@ -21,7 +21,7 @@
 
 ### General
 
-This project was created to allow pH measurment of an electrolite in Plasma Electrolytic Oxidation Process
+This project was created to allow pH measurment of an electrolyte in Plasma Electrolytic Oxidation Process
 and store the data in a SQL database by sending it to the local host through WiFi. 
 Used SoC in the project is ESP32 which has a WiFi module. The Local server was created using WampServer software. <br>
 The ESP32 and the display are powered by 5 V. The pH sensor is powered by the ESP32.
